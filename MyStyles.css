@@ -262,6 +262,7 @@ a{
     text-decoration: none;
 }
 .shortCourse-ad{
+    margin-bottom: 20px;
    text-align: center;
    font-weight: bold;
 }
@@ -277,7 +278,7 @@ a{
    color:#2C2A58;
 }
 .register-shortCourse{
-    background-image: url(under_grad_main.jpg);
+    background-image: url(https://www.ug.edu.gh/sites/default/files/2019_2020%20undergrad%20admissions.png);
     background-size: cover;
     height: 400px; 
     padding: 10px; 
@@ -336,9 +337,15 @@ a{
     justify-content: center;
     align-items: center;
 }
-.gradIcon{
+.glyphicon{
+    color: goldenrod;
     padding:10px;
-   width: 90px;
+    font-size: 48px;
+}
+.fas{
+    color: goldenrod;
+    padding:10px;
+    
 }
 .register{
    text-align: center;
