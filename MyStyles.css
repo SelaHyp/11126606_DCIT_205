@@ -67,7 +67,6 @@ html{
     margin-right: 10px;
     cursor: pointer;
 }
-
 .navbar-link {
     font-size: 1.1em;
     display: block;
@@ -337,15 +336,9 @@ a{
     justify-content: center;
     align-items: center;
 }
-.glyphicon{
-    color: goldenrod;
-    padding:10px;
-    font-size: 48px;
-}
 .fas{
     color: goldenrod;
     padding:10px;
-    
 }
 .register{
    text-align: center;
@@ -354,6 +347,7 @@ a{
     display: inline-block;
     padding: 10px 20px;
     background-color: #BD9C6c;
+    text-decoration: none;
 }
 .shortCourse-main-row{
     display:flex;
