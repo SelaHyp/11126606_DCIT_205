@@ -40,7 +40,10 @@ In the forked repository you then create and update your github repository by co
 ## Name: YAOVI SELASI PRAISE
         ID: 11126606
 # SCREENSHOTS
-![Project Logo](ReadmeIMG/Screenshot(1).png)
+![Project Logo](IMG/image1.png)
+![Project Logo](IMG/image2.png)
+![Project Logo](IMG/image3.png)
+![Project Logo](IMG/image4.png)
 
 
 
@@ -50,8 +53,4 @@ In the forked repository you then create and update your github repository by co
 
 
 
-Feel free to explore the different sections of the site to discover more about [yourself | your work | your organization]. If you have any questions, feedback, or suggestions, don't hesitate to reach out.
 
-Thank you for visiting!
-
-[Optional: Include badges, links, or relevant images to enhance your README.]
