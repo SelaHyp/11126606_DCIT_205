@@ -37,20 +37,50 @@ Before you begin, ensure you have the following installed on your device:
 
 In the forked repository you then create and update your github repository by commiting and pushing your changes and newly created file. 
 
-## Name: YAOVI SELASI PRAISE
+## Name and ID
+        Name: YAOVI SELASI PRAISE
         ID: 11126606
 # SCREENSHOTS
 ![Project Logo](IMG/image1.png)
 ![Project Logo](IMG/image2.png)
 ![Project Logo](IMG/image3.png)
 ![Project Logo](IMG/image4.png)
+![Project Logo](IMG/image5.png)
+![Project Logo](IMG/image6.png)
+![Project Logo](IMG/image7.png)
+![Project Logo](IMG/image8.png)
+![Project Logo](IMG/image9.png)
+![Project Logo](IMG/image10.png)
+![Project Logo](IMG/image11.png)
+![Project Logo](IMG/image12.png)
+![Project Logo](IMG/image13.png)
+![Project Logo](IMG/image14.png)
+![Project Logo](IMG/image15.png)
+![Project Logo](IMG/image16.png)
+![Project Logo](IMG/image17.png)
+![Project Logo](IMG/image18.png)
+![Project Logo](IMG/image19.png)
+![Project Logo](IMG/image20.png)
+![Project Logo](IMG/image21.png)
+![Project Logo](IMG/image22.png)
+![Project Logo](IMG/image23.png)
+![Project Logo](IMG/image24.png)
+![Project Logo](IMG/image25.png)
+![Project Logo](IMG/image26.png)
+![Project Logo](IMG/image27.png)
+![Project Logo](IMG/image28.png)
+![Project Logo](IMG/image29.png)
+![Project Logo](IMG/image30.png)
+![Project Logo](IMG/image31.png)
+![Project Logo](IMG/image32.png)
+![Project Logo](IMG/image33.png)
+## LESSON LEARNT
+        From the I practically learnt the syntax and the methods to the use of tags and elements in html.
+        To be precise in html decovered and learnt new tags like the <link>,<section>, creating number, bulleted list using the <ul>,<li>,<ol> tags and practically everything I represented on the webpage.
+        In Css I was able the effectively make use of the hover, after, and before effects, the color codes like #fff is white #f5f5f5 is gray etc, 
+        Combining both i was able to come up with a responsitive header,footer and shadows box several others.
+        I am proud to say the experience was impactful and it has given me the confidence and stepping stone to move forward.
 
-
-
-
-
-
-
-
-
+  Feel free to give any recommendations, adding, or critisims about the project. THANK YOU.      
+  
 
