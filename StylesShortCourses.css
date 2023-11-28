@@ -170,6 +170,17 @@ html{
        text-transform: uppercase;
      transform: translate(50%, 0);
 }
+.alphaText1{
+    text-decoration: none;
+    font-weight: bold;
+       position: absolute;
+       top: 70%;
+       right: 50%;
+       color: #fff;
+       font-size: 20px;
+       text-transform: uppercase;
+     transform: translate(50%, 0);
+}
   
   .grid-container {
     display: grid;
